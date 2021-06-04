@@ -1,5 +1,5 @@
 # Prediction-Using-Supervised-ML
-Data Science &amp; Business Analytics 
+Data Science and Business Analytics 
 TASK 1  
 Predict the percentage of student based on the number of study hours.
 I have used python modules like pandas, Numpy and matplotlib 
