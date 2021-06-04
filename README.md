@@ -5,7 +5,7 @@
 TASK 1  
 
 * **Task:** Predict the percentage of student based on the number of study hours.
-* **Libraries Used:** Pandas, Numpy and Matplotlib 
+* **Libraries Used:** Pandas, Numpy, Scikit, Matplotlib 
 * **Dataset Used:** Student Scores dataset
 ---
 Task completed during Data Science & Business Analytics Internship @**THE SPARKS FOUNDATION** (GRIP)
