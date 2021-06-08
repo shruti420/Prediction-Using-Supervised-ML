@@ -27,7 +27,7 @@ _Please click on the images on right side to view my solution._
 * Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3kXTdox)
 
 ---
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/shruti420/The-Sparks-foundation-Tasks/blob/main/Task3.ipynb)
 
 
 ### #Task-3 : Prediction using Decision Tree Algorithm
